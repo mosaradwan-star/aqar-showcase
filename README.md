@@ -4,9 +4,9 @@
 
 **A real estate platform connecting property search, owner submissions, customer follow-up, offers, and analysis.**
 
-[Founder portfolio](https://github.com/mosaradwan-star) · [Estiqra](https://github.com/mosaradwan-star/estiqra-showcase) · [Estiqra Operate](https://github.com/mosaradwan-star/estiqra-operate-showcase)
+[Founder portfolio](https://github.com/mosaradwan-star) · [Estiqra](https://github.com/mosaradwan-star/estiqra-showcase) · [Estiqra Operate](https://github.com/mosaradwan-star/estiqra-operate-showcase) · [Product enquiries](https://www.estiqra.com/#contact)
 
-**Current public demonstration:** the supplied local product build, captured in an isolated preview with fictional records. The initial market context is Jenin and the West Bank. These screens do not represent customer traction, actual listings, or a live production launch.
+**Current stage:** local product build. The screenshots demonstrate the interface using fictional or blank records, with an initial market focus on Jenin and the West Bank.
 
 ## The problem
 
@@ -29,9 +29,9 @@ AqarFlow connects public property discovery with brokerage workflows. Its public
 
 ### Property discovery
 
-![AqarFlow property discovery with structured search filters and fictional listings](screenshots/property-discovery.jpg)
+![AqarFlow property discovery with structured search filters](screenshots/property-discovery.jpg)
 
-*Actual product interface with fictional demonstration properties. Asking prices and property details are examples.*
+*Property search and structured filters in the demonstration interface.*
 
 ### Owner submission
 
